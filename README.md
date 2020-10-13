@@ -10,3 +10,8 @@ Y4S1 Advanced Object Oriented Software Development
 
 - Object Equality, Comparability, Cloning & Convertibility.
 - Using Refactoring to Abstract and Encapsulate.
+
+## Lab 3
+
+- Creating A Fluent API with Creational Patterns.
+- Composition & Object Reuse.
