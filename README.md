@@ -15,3 +15,7 @@ Y4S1 Advanced Object Oriented Software Development
 
 - Creating A Fluent API with Creational Patterns.
 - Composition & Object Reuse.
+
+## Lab 4
+
+- Stronger Encapsulation with Java Modules.
