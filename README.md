@@ -19,3 +19,7 @@ Y4S1 Advanced Object Oriented Software Development
 ## Lab 4
 
 - Stronger Encapsulation with Java Modules.
+
+## Lab 5
+
+- Multiple Inheritance and Polymorphic Service Providers
