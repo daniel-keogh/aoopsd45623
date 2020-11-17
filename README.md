@@ -22,8 +22,12 @@ Y4S1 Advanced Object Oriented Software Development
 
 ## Lab 5
 
-- Multiple Inheritance and Polymorphic Service Providers
+- Multiple Inheritance and Polymorphic Service Providers.
 
 ## Lab 6
 
-- Combining Composition with Inheritance and Sealed Types
+- Combining Composition with Inheritance and Sealed Types.
+
+## Lab 7
+
+- Event Notification and Method Encapsulation.
