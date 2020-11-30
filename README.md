@@ -31,3 +31,11 @@ Y4S1 Advanced Object Oriented Software Development
 ## Lab 7
 
 - Event Notification and Method Encapsulation.
+
+## Lab 8
+
+- MVC & Visitors
+
+## Lab 9
+
+- Distributed Computing with Proxies
